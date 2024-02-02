@@ -5,7 +5,7 @@
 
 ### Languages & Tools \ Языки и инструменты:
 
-![pyhton-3][image1]![sql-1][image6]         ![datalens-1][image3]              ![tablo-1][image2]          ![yupiter-1][image4]
+![pyhton-3][image1]![sql-1][image6]         ![datalens-1][image3]              ![tablo-1][image2]    ![yupiter-1][image4]
 
    
   
