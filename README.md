@@ -17,12 +17,13 @@
  
 ### Follow Me \ Связаться со мной:
   
-[![telegram](https://github.com/Ladry2010/introduce/assets/156521640/c85792c5-d38a-45fc-a257-21b095458005)](https://t.me/ladry2010)
+[![telegram][image7]](https://t.me/ladry2010)   
 
+[![gmail][image8]](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ladry2010@gmail.com)
 
+[image7]:https://github.com/Ladry2010/introduce/assets/156521640/c85792c5-d38a-45fc-a257-21b095458005
 
-
-
+[image8]:https://github.com/Ladry2010/Ladry2010/assets/156521640/6e39e197-00af-420a-88da-7c80cb96bab2
 
 
 [image1]:https://github.com/Ladry2010/introduce/assets/156521640/65d468ce-caa6-4d82-8d5a-f131486ae149
