@@ -4,8 +4,9 @@
 Я - junior аналитик данных. Я закончила курс "Аналитик данных" от Яндекс.Практикум.Во время обучения мною были выполнены проекты   [Yandex_Practicum_projects](https://github.com/Ladry2010/Yandex_Practicum_projects),в которых были использованы
 
 ### Languages & Tools \ Языки и инструменты:
+**pyhton , PostgreSQL , DataLens , tableau , jupyter**
 
-![pyhton-3][image1]![sql-1][image6]         ![datalens-1][image3]              ![tablo-1][image2]    ![yupiter-1][image4]
+
 
    
   
